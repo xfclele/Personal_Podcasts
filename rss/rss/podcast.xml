@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:podcast="https://podcastindex.org/namespace/1.0">
+
+<channel>
+    <title>Orwin 的个人播客</title>
+    <link>https://xfclele.github.io/Personal_Podcasts/</link>
+    <language>zh-cn</language>
+    <itunes:author>Orwin</itunes:author>
+    <itunes:summary>我的个人播客</itunes:summary>
+    <description>我的个人播客</description>
+    <itunes:image href="https://xfclele.github.io/Personal_Podcasts/assets/cover.jpg"/>
+    <itunes:explicit>no</itunes:explicit>
+
+    <item>
+        <title>第一集标题</title>
+        <description>第一集简介</description>
+        <pubDate>Sun, 19 Jul 2026 01:00:00 +1200</pubDate>
+        <guid>ep1</guid>
+        <enclosure url="https://xfclele.github.io/Personal_Podcasts/audio/ep1.mp3"
+                   length="12345678"
+                   type="audio/mpeg"/>
+    </item>
+
+</channel>
+</rss>
