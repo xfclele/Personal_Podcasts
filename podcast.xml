@@ -14,13 +14,40 @@
     <itunes:explicit>no</itunes:explicit>
 
     <item>
-        <title>第一集标题</title>
-        <description>第一集简介</description>
-        <pubDate>Sun, 19 Jul 2026 01:00:00 +1200</pubDate>
-        <guid>ep1</guid>
-        <enclosure url="https://xfclele.github.io/Personal_Podcasts/audio/ep1.mp3"
-                   length="12345678"
-                   type="audio/mpeg"/>
+        <item>
+    <title>20260703.aac</title>
+    <description>20260703.aac</description>
+    <pubDate>Mon, 03 Jul 2026 00:00:00 +1200</pubDate>
+    <guid>20260703</guid>
+    <enclosure 
+        url="https://xfcele.github.io/Personal_Podcasts/audio/20260703.aac"
+        length="0"
+        type="audio/aac"/>
+</item>
+
+<item>
+    <title>20260711.aac</title>
+    <description>20260711.aac</description>
+    <pubDate>Sat, 11 Jul 2026 00:00:00 +1200</pubDate>
+    <guid>20260711</guid>
+    <enclosure 
+        url="https://xfcele.github.io/Personal_Podcasts/audio/20260711.aac"
+        length="0"
+        type="audio/aac"/>
+</item>
+
+<item>
+    <title>20260717.aac</title>
+    <description>20260717.aac</description>
+    <pubDate>Fri, 17 Jul 2026 00:00:00 +1200</pubDate>
+    <guid>20260717</guid>
+    <enclosure 
+        url="https://xfcele.github.io/Personal_Podcasts/audio/20260717.aac"
+        length="0"
+        type="audio/aac"/>
+</item>
+
+         
     </item>
 
 </channel>
