@@ -14,41 +14,21 @@
     <itunes:explicit>no</itunes:explicit>
 
     <item>
-        <item>
-    <title>20260703.aac</title>
-    <description>20260703.aac</description>
-    <pubDate>Mon, 03 Jul 2026 00:00:00 +1200</pubDate>
-    <guid>20260703</guid>
-    <enclosure 
-        url="https://xfcele.github.io/Personal_Podcasts/audio/20260703.aac"
-        length="0"
-        type="audio/aac"/>
-</item>
-
-<item>
-    <title>20260711.aac</title>
-    <description>20260711.aac</description>
-    <pubDate>Sat, 11 Jul 2026 00:00:00 +1200</pubDate>
-    <guid>20260711</guid>
-    <enclosure 
-        url="https://xfcele.github.io/Personal_Podcasts/audio/20260711.aac"
-        length="0"
-        type="audio/aac"/>
-</item>
-
-<item>
-    <title>20260717.aac</title>
-    <description>20260717.aac</description>
-    <pubDate>Fri, 17 Jul 2026 00:00:00 +1200</pubDate>
-    <guid>20260717</guid>
-    <enclosure 
-        url="https://xfcele.github.io/Personal_Podcasts/audio/20260717.aac"
-        length="0"
-        type="audio/aac"/>
-</item>
-
-         
+        <title>20260703.aac</title>
+        <description>20260703.aac</description>
+        <pubDate>Mon, 03 Jul 2026 00:00:00 +1200</pubDate>
+        <guid>20260703</guid>
+        <enclosure 
+            url="https://xfclele.github.io/Personal_Podcasts/audio/20260703.aac"
+            length="0"
+            type="audio/aac"/>
     </item>
 
-</channel>
-</rss>
+    <item>
+        <title>20260711.aac</title>
+        <description>20260711.aac</description>
+        <pubDate>Sat, 11 Jul 2026 00:00:00 +1200</pubDate>
+        <guid>20260711</guid>
+        <enclosure 
+            url="https://xfclele.github.io/Personal_Podcasts/audio/20260711.aac"
+            length="0"
