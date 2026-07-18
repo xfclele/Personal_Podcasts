@@ -14,36 +14,36 @@
     <itunes:explicit>no</itunes:explicit>
 
     <item>
-        <title>20260703.m4a</title>
+        <title>20260703</title>
         <description>20260703.aac</description>
         <pubDate>Mon, 03 Jul 2026 00:00:00 +1200</pubDate>
         <guid>20260703</guid>
         <enclosure 
-            url="https://xfclele.github.io/Personal_Podcasts/audio/20260703.aac"
+            url="https://xfclele.github.io/Personal_Podcasts/audio/20260703.m4a"
             length="0"
             type="audio/mp4"/>
     </item>
 
     <item>
-        <title>20260711.m4a</title>
+        <title>20260711</title>
         <description>20260711.aac</description>
         <pubDate>Sat, 11 Jul 2026 00:00:00 +1200</pubDate>
         <guid>20260711</guid>
         <enclosure 
-            url="https://xfclele.github.io/Personal_Podcasts/audio/20260711.aac"
+            url="https://xfclele.github.io/Personal_Podcasts/audio/20260711.m4a"
             length="0"
-            type="audio/aac"/>
+            type="audio/mp4"/>
     </item>
 
     <item>
-        <title>20260717.m4a</title>
+        <title>20260717</title>
         <description>20260717.aac</description>
         <pubDate>Fri, 17 Jul 2026 00:00:00 +1200</pubDate>
         <guid>20260717</guid>
         <enclosure 
-            url="https://xfclele.github.io/Personal_Podcasts/audio/20260717.aac"
+            url="https://xfclele.github.io/Personal_Podcasts/audio/20260717.m4a"
             length="0"
-            type="audio/aac"/>
+            type="audio/mp4"/>
     </item>
 
 </channel>
