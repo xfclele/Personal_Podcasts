@@ -5,12 +5,12 @@
 
 <channel>
     <title>Orwin 的个人播客</title>
-    <link>https://xfcele.github.io/Personal_Podcasts/</link>
+    <link>https://xfclele.github.io/Personal_Podcasts/</link>
     <language>zh-cn</language>
     <itunes:author>Orwin</itunes:author>
     <itunes:summary>我的个人播客</itunes:summary>
     <description>我的个人播客</description>
-    <itunes:image href="https://xfcele.github.io/Personal_Podcasts/assets/cover.jpg"/>
+    <itunes:image href="https://xfclele.github.io/Personal_Podcasts/assets/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
 
     <item>
@@ -19,7 +19,7 @@
         <pubDate>Mon, 03 Jul 2026 00:00:00 +1200</pubDate>
         <guid>20260703</guid>
         <enclosure 
-            url="https://xfcele.github.io/Personal_Podcasts/audio/20260703.aac"
+            url="https://xfclele.github.io/Personal_Podcasts/audio/20260703.aac"
             length="0"
             type="audio/aac"/>
     </item>
@@ -30,7 +30,7 @@
         <pubDate>Sat, 11 Jul 2026 00:00:00 +1200</pubDate>
         <guid>20260711</guid>
         <enclosure 
-            url="https://xfcele.github.io/Personal_Podcasts/audio/20260711.aac"
+            url="https://xfclele.github.io/Personal_Podcasts/audio/20260711.aac"
             length="0"
             type="audio/aac"/>
     </item>
@@ -41,7 +41,7 @@
         <pubDate>Fri, 17 Jul 2026 00:00:00 +1200</pubDate>
         <guid>20260717</guid>
         <enclosure 
-            url="https://xfcele.github.io/Personal_Podcasts/audio/20260717.aac"
+            url="https://xfclele.github.io/Personal_Podcasts/audio/20260717.aac"
             length="0"
             type="audio/aac"/>
     </item>
