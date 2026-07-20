@@ -46,5 +46,16 @@
             type="audio/mp4"/>
     </item>
 
+    <item>
+        <title>20260718</title>
+        <description>20260718</description>
+        <pubDate>Fri, 18 Jul 2026 00:00:00 +1200</pubDate>
+        <guid>20260718</guid>
+        <enclosure 
+            url="https://xfclele.github.io/Personal_Podcasts/audio/20260718.m4a"
+            length="0"
+            type="audio/mp4"/>
+    </item>
+
 </channel>
 </rss>
