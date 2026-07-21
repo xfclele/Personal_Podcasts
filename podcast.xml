@@ -14,6 +14,50 @@
     <itunes:explicit>no</itunes:explicit>
 
     <item>
+        <title>20260502</title>
+        <description>20260502</description>
+        <pubDate>Mon, 02 May 2026 00:00:00 +1200</pubDate>
+        <guid>20260502</guid>
+        <enclosure 
+            url="https://xfclele.github.io/Personal_Podcasts/audio/20260502.m4a"
+            length="0"
+            type="audio/mp4"/>
+    </item>
+
+   <item>
+        <title>20260604</title>
+        <description>20260604</description>
+        <pubDate>Mon, 04 Jun 2026 00:00:00 +1200</pubDate>
+        <guid>20260604</guid>
+        <enclosure 
+            url="https://xfclele.github.io/Personal_Podcasts/audio/20260604.m4a"
+            length="0"
+            type="audio/mp4"/>
+    </item>
+
+   <item>
+        <title>20260605</title>
+        <description>20260605</description>
+        <pubDate>Mon, 05 Jun 2026 00:00:00 +1200</pubDate>
+        <guid>20260605</guid>
+        <enclosure 
+            url="https://xfclele.github.io/Personal_Podcasts/audio/20260605.m4a"
+            length="0"
+            type="audio/mp4"/>
+    </item>
+
+   <item>
+        <title>20260609</title>
+        <description>20260609</description>
+        <pubDate>Mon, 09 Jun 2026 00:00:00 +1200</pubDate>
+        <guid>20260609</guid>
+        <enclosure 
+            url="https://xfclele.github.io/Personal_Podcasts/audio/20260609.m4a"
+            length="0"
+            type="audio/mp4"/>
+    </item>
+
+    <item>
         <title>20260703</title>
         <description>20260703</description>
         <pubDate>Mon, 03 Jul 2026 00:00:00 +1200</pubDate>
@@ -53,6 +97,17 @@
         <guid>20260718</guid>
         <enclosure 
             url="https://xfclele.github.io/Personal_Podcasts/audio/20260718.m4a"
+            length="0"
+            type="audio/mp4"/>
+    </item>
+
+   <item>
+        <title>20260720</title>
+        <description>20260720</description>
+        <pubDate>Mon, 20 Jul 2026 00:00:00 +1200</pubDate>
+        <guid>20260720</guid>
+        <enclosure 
+            url="https://xfclele.github.io/Personal_Podcasts/audio/20260720.m4a"
             length="0"
             type="audio/mp4"/>
     </item>
