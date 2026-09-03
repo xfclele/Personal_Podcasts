@@ -134,5 +134,27 @@
             type="audio/mp4"/>
     </item>
 
+     <item>
+        <title>20260814</title>
+        <description>20260814</description>
+        <pubDate>Fri, 14 Aug 2026 00:00:00 +1200</pubDate>
+        <guid>20260814</guid>
+        <enclosure 
+            url="https://xfclele.github.io/Personal_Podcasts/audio/20260814.m4a"
+            length="0"
+            type="audio/mp4"/>
+    </item>
+
+<item>
+        <title>20260828</title>
+        <description>20260828</description>
+        <pubDate>Fri, 28 Aug 2026 00:00:00 +1200</pubDate>
+        <guid>20260828</guid>
+        <enclosure 
+            url="https://xfclele.github.io/Personal_Podcasts/audio/20260828.m4a"
+            length="0"
+            type="audio/mp4"/>
+    </item>
+     
 </channel>
 </rss>
