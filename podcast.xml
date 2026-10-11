@@ -178,5 +178,16 @@
             type="audio/mp4"/>
     </item>
 
+<item>
+        <title>20261009</title>
+        <description>20261009</description>
+        <pubDate>Fri, 09 Oct 2026 00:00:00 +1200</pubDate>
+        <guid>20261009</guid>
+        <enclosure 
+            url="https://xfclele.github.io/Personal_Podcasts/audio/20261009.m4a"
+            length="0"
+            type="audio/mp4"/>
+    </item>
+
 </channel>
 </rss>
